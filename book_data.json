@@ -1,25 +1,22 @@
-{
-  "books": [
+[
     {
-      "book1": {
         "name": "Le jeune Entrepreneur Africain",
         "author": "claudel Noubissie",
 	"date": "12 MAY 2019",
 	"imageUrl": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png",
         },
 	
-      "book2": {
+   {
         "name": "L'art oratoire pour les nuls",
         "author": "claudel Noubissie",
 	"date": "12 MAY 2019",
 	"imageUrl": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png",
         },
 
-      "book3": {
+   {
         "name": "Apprendre a apprendre",
         "author": "claudel Noubissie",
 	"date": "12 MAY 2019",
 	"imageUrl": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png",
         }
-   }]
-}
+]
