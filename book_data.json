@@ -1,22 +1,25 @@
 [
     {
+	"id":"1",
         "name": "Le jeune Entrepreneur Africain",
         "author": "claudel Noubissie",
 	"date": "12 MAY 2019",
-	"imageUrl": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png",
-        }
+	"imageUrl": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png"
+        },
 	
    {
+	"id":"2",
         "name": "L'art oratoire pour les nuls",
         "author": "claudel Noubissie",
 	"date": "12 MAY 2019",
-	"imageUrl": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png",
-        }
+	"imageUrl": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png"
+        },
 
    {
+	"id":"3",
         "name": "Apprendre a apprendre",
         "author": "claudel Noubissie",
 	"date": "12 MAY 2019",
-	"imageUrl": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png",
+	"imageUrl": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png"
         }
 ]
