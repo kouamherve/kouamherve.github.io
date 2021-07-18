@@ -2,7 +2,7 @@
     {
 	"id":"1",
         "name": "Le jeune Entrepreneur Africain",
-        "author": "claudel Noubissie",
+        "author": "Claudel Noubissie",
 	"date": "12 MAY 2019",
 	"img_src": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png"
         },
@@ -10,64 +10,33 @@
    {
 	"id":"2",
         "name": "L'art oratoire pour les nuls",
-        "author": "claudel Noubissie",
-	"date": "12 MAY 2019",
+        "author": "Claudel Noubissie",
+	"date": "12 MAI 2019",
 	"img_src": "https://www.ayokafrica.com/wp-content/uploads/2020/11/Yves-Leussa3.png"
         },
 
    {
 	"id":"3",
         "name": "Apprendre à apprendre",
-        "author": "claudel Noubissie",
-	"date": "12 MAY 2019",
+        "author": "Claudel Noubissie",
+	"date": "12 MAI 2019",
 	"img_src": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png"
         },
 	
    {
 	"id":"4",
-        "name": "Le jeune Entrepreneur Africain",
-        "author": "claudel Noubissie",
-	"date": "12 MAY 2019",
-	"img_src": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png"
+        "name": "Batisseurs d'Afrique",
+        "author": "Nathalie Madeline",
+	"date": "21 AVRIL 2020",
+	"img_src": "https://www.ietp.com/sites/default/files/news-livre.png"
         },
 	
    {
 	"id":"5",
-        "name": "L'art oratoire pour les nuls",
-        "author": "claudel Noubissie",
-	"date": "12 MAY 2019",
-	"img_src": "https://www.ayokafrica.com/wp-content/uploads/2020/11/Yves-Leussa3.png"
+        "name": "Entreprendre en Afrique",
+        "author": "Ibrahima Théo Lam",
+	"date": "01 JAN 2014",
+	"img_src": "https://images-na.ssl-images-amazon.com/images/I/71rjxl7REWL.jpg"
         },
 
-   {
-	"id":"6",
-        "name": "Apprendre à apprendre",
-        "author": "claudel Noubissie",
-	"date": "12 MAY 2019",
-	"img_src": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png"
-        },
-	
-   {
-	"id":"7",
-        "name": "Le jeune Entrepreneur Africain",
-        "author": "claudel Noubissie",
-	"date": "12 MAY 2019",
-	"img_src": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png"
-        },
-	
-   {
-	"id":"8",
-        "name": "L'art oratoire pour les nuls",
-        "author": "claudel Noubissie",
-	"date": "12 MAY 2019",
-	"img_src": "https://www.ayokafrica.com/wp-content/uploads/2020/11/Yves-Leussa3.png"
-        },
-
-   {
-	"id":"9",
-        "name": "Apprendre à apprendre",
-        "author": "claudel Noubissie",
-	"date": "12 MAY 2019",
-	"img_src": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png"
-        }
 ]
