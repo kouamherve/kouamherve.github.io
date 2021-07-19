@@ -4,7 +4,8 @@
         "name": "Le jeune Entrepreneur Africain",
         "author": "Claudel Noubissie",
 	"date": "12 MAY 2019",
-	"img_src": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png"
+	"img_src": "https://www.ayokafrica.com/wp-content/uploads/2019/05/Yves-Leussa-8.png",
+	"desc":"Dans son ouvrage Jeune entrepreneur africain, Claudel Noubissie nous fait découvrir l’importance entrepreneuriat en Afrique...."
         },
 	
    {
@@ -12,7 +13,8 @@
         "name": "L'art oratoire pour les nuls",
         "author": "Claudel Noubissie",
 	"date": "12 MAI 2019",
-	"img_src": "https://www.ayokafrica.com/wp-content/uploads/2020/11/Yves-Leussa3.png"
+	"img_src": "https://www.ayokafrica.com/wp-content/uploads/2020/11/Yves-Leussa3.png",
+	"desc":"Dans son ouvrage L'art oratoire pour les nuls, Claudel Noubissie nous fait découvrir l’importance entrepreneuriat en Afrique...."
         },
 
    {
@@ -20,7 +22,8 @@
         "name": "100 idées de projets à débuter sans financement au Cameroun",
         "author": "Claudel Noubissie",
 	"date": "12 MAI 2019",
-	"img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ2ALVYHbiIEbAEpnQC3i0oAM-sMV3BO_Nkg&usqp=CAU"
+	"img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ2ALVYHbiIEbAEpnQC3i0oAM-sMV3BO_Nkg&usqp=CAU",
+	"desc":"Vous trouverez dans ce livre, 100 idées de projets à débuter sans financement dans le contexte Camerounais et ainsi que la méthodologie adaptée pour les implémenter."
         },
 	
    {
@@ -28,7 +31,8 @@
         "name": "Batisseurs d'Afrique",
         "author": "Nathalie Madeline",
 	"date": "21 AVRIL 2020",
-	"img_src": "https://www.ietp.com/sites/default/files/news-livre.png"
+	"img_src": "https://www.ietp.com/sites/default/files/news-livre.png",
+	"desc":"Nathalie Madeline, auteure du livre, avait déjà collaboré avec la maison d’édition Eyrolles sur l’ouvrage Impact & Cie, qui s’intéressait à 15 entrepreneurs basés en France et accompagnés par le fonds Impact Partenaires. Elle retrouve au travers de ces parcours des thèmes qui lui sont chers : l’engagement pour le développement, l’entrepreneuriat responsable, l’impact social et environnemental."
         },
 	
    {
@@ -36,7 +40,8 @@
         "name": "Entreprendre en Afrique",
         "author": "Ibrahima Théo Lam",
 	"date": "01 JAN 2014",
-	"img_src": "https://images-na.ssl-images-amazon.com/images/I/71rjxl7REWL.jpg"
+	"img_src": "https://images-na.ssl-images-amazon.com/images/I/71rjxl7REWL.jpg",
+	"desc":"Ce livre a pour objectif de conduire le lecteur dans une réflexion sur le profil du candidat à la création de richesses. Il présente le parcours de jeunes entrepreneurs du continent, diplômés ou autodidactes. A travers le cas particulier du Sénégal, il donne un aperçu des dispositifs d'aide à la création d'entreprise accessibles aux jeunes."
         }
 
 ]
