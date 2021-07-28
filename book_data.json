@@ -1,5 +1,4 @@
-{
-	"books":[
+[
 	    {
 		"id":"1",
 		"name": "Le jeune Entrepreneur Africain",
@@ -51,4 +50,3 @@
 		}
 
 	]
-}
