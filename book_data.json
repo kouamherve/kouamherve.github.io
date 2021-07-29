@@ -1,6 +1,4 @@
-{	
-	
-"books":[
+[
 	    {
 		"id":"1",
 		"name": "Le jeune Entrepreneur Africain",
@@ -51,5 +49,4 @@
 		"urlDownload":"https://lafriquedesidees.org/wp-content/uploads/2015/05/NSE-SUNAYON.pdf"
 		}
 
-	]
-}
+]
